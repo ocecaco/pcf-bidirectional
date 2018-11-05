@@ -5,7 +5,14 @@
   "depends": [
     "console",
     "effect",
+    "either",
+    "generics-rep",
+    "identity",
+    "lists",
+    "maybe",
+    "partial",
     "prelude",
-    "psci-support"
+    "psci-support",
+    "transformers"
   ]
 }
